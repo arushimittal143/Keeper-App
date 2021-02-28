@@ -1,2 +1,1 @@
-# Keeper-App
-Created with CodeSandbox
+# Keeper-App 📝
